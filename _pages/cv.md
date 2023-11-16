@@ -11,7 +11,9 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can donwload my CV <u><a href="../AF_CV.pdf">here</a></u>
+My CV as of Nov 3 2023.
+
+You can download my CV <u><a href="../AF_CV.pdf">here</a></u>
 <br/>
 
 <embed src="../AF_CV.pdf" type="application/pdf" width="100%" />
