@@ -10,9 +10,11 @@ redirect_from:
 
 ## Skills and Interests
 
-I am a computational biologist interested in cancer research. My work focuses on bioinformatics research and sequence data analysis for genomics and transcriptomics. I am highly proficient in R and transcriptomic data analysis. Through my training in the PhD in Clinical Investiation (PCI) fellowship at Einstein, I have also become proficient in general data analysis and basic machine learning, especially with regard to clinical data. I apply these skills to study cancer, which I have focused on since 2018. I have gained proficiency in molecular pathways and various "hallmarks" of cancer.
+I am a computational biologist interested in cancer research. My work focuses on bioinformatics research and sequence data analysis for genomics and transcriptomics. I am highly proficient in R and transcriptomic data analysis. Through my training in the PhD in Clinical Investiation (PCI) fellowship at Albert Einstein College of Medicine, I have also become proficient in general data analysis and basic machine learning, especially with regard to clinical data. I apply these skills to study cancer, which I have focused on since 2018. In addition to bioinformatics, I have deep familiarity with cancer-related molecular pathways. As part of my clinically-oriented research fellowship program, I have had the ability to hone my communication skills in order to describe complex genomics data to clinicans and other non-bioinformaticians.
 
-I plan to complete my PhD at Albert Einstein College of Medicine in May 2024. I am seeking industry R&D Bioinformatics careers with a special focus on research and cancer.
+I plan to complete my PhD at Albert Einstein College of Medicine in May 2024. I am seeking industry R&D Bioinformatics careers with a focus on research and cancer.
+
+I have also founded and led an omics-oriented networking group, the Einstein-Montefiore Omics Club. Additionally, I have served as vice-president of the Einstein Biotech Club.
 
 ## Background
 
