@@ -13,7 +13,7 @@ redirect_from:
 
 My CV as of 2024 Feb 19.
 
-You can download my CV <u><a href="../AF_CV_2024_02_19.pdf">here</a></u>
+You can download my CV <u><a href="../AF_CV.pdf">here</a></u>
 <br/>
 
-<embed src="../AF_CV_2024_02_19.pdf" type="application/pdf" width="100%" />
+<embed src="../AF_CV.pdf" type="application/pdf" width="100%" />
