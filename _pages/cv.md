@@ -11,8 +11,10 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-My CV as of 2024 March 4.
+You can download my resume <u><a href="../FerrenaAlexanderResume.pdf">here</a></u>
 
-You can download my CV <u><a href="../AF_CV.pdf">here</a></u>
 <br/>
 
+You can download my CV <u><a href="../AF_CV.pdf">here</a></u>
+
+<br/>
