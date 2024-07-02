@@ -8,25 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-## I am on the job market!
-
-I'm excited to announce that I've started to embark on my job search process! I am seeking Ph.D.-level Research / Scientist roles in industry biotech and pharma, in NYC or remote, with a focus on bioinformatics, single-cell methods, and cancer, and with a hopeful start date in June 2024. I'd really appreciate any tips, and would love to connect with anyone who may be hiring!
-
 
 ## Background
 
-I am a soon-to-graduate PhD Candidate in cancer bioinformatics at Albert Einstein College of Medicine. My PhD has focused on studying the oncogene SKP2 in Osteosarcoma using single-cell transcriptomics under the mentorship of Dr. Deyou Zheng and co-mentored by Dr. Bang Hoang. I been able to collaborate and contribute to other large-scale projects in the context of embryonic development and other cancers such as prostate cancer. I have also had the opportunity to engage in a bioinformatics biotech internship with Singulomics in which I developed an efficient pipeline for spatial transcriptomics analysis.
+I am a Senior Bioinformatics Programmer in the Cardiovascular Research Center at NYU Langone Health.
 
-Before Einstein, I completed a Masters in Biotechnology at Columbia University, graduating in 2019. I performed Masters thesis research under the mentorship of Dr. Tuomas Tammela at Memorial Sloan Kettering Cancer Center, in which I applied analysis methods to single-cell RNAseq, CITE-seq, and other data types in cancer. I completed a Masters thesis titled "The Impact of Aging on Lung Adenocarcinoma". Before that, I graduated from NYU in 2016 after majoring in molecular biology, during which I completed an internship with Dr. David Gresham studying differential metabolic conditions via RNA-sequencing.
+I received a PhD in cancer bioinformatics at Albert Einstein College of Medicine. My PhD focused on studying the role of E3 ligase targetting component SKP2 in the immune microenvironment and metastasis of osteosarcoma using single-cell transcriptomics, under the mentorship of bioinformatics expert Deyou Zheng and orthopedics professor Bang Hoang.
 
 
 ## Skills and Interests
 
-I am a computational biologist interested in cancer research. My interests are genomics, transcriptomics and bioinformatics. I am highly proficient in R and transcriptomic data analysis. Through my training in the PhD in Clinical Investiation (PCI) fellowship at Albert Einstein College of Medicine, I have also become proficient in general data analysis and basic machine learning, especially with regard to clinical data.
+I am a computational biologist interested in the intersection of technology and science, especially with regard to health. I am highly proficient in R and transcriptomic data analysis. I am also interested and skilled in general data analysis and machine learning, especially in the realm of clinical data.
 
-I have also founded and led an omics-oriented networking group, the Einstein-Montefiore Omics Club. Additionally, I have served as vice-president of the Einstein Biotech Club.
-
-
-
+I am very interested in translational medicine, biotechnology, and pharmaceutical industry. I founded and led an omics-oriented educational society, the Einstein Montefiore Omics Club. Additionally, I served as vice-president of the Einstein Biotech Club.
 
 
