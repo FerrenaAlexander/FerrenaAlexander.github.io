@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexander Ferrena, PhD"
 title_separator          : "-"
 name                     : &name "Alexander Ferrena"
-description              : &description "Bioinformatician, NYU Langone Health"
+description              : &description "Bioinformatician at NYU Langone Health"
 url                      : https://FerrenaAlexander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FerrenaAlexander.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander Ferrena"
   avatar           : "Ferrena_Alexander_Portraits_2023_8_31_24_CROPPED.jpg"
-  bio              : "PhD Candidate at Albert Einstein College of Medicine"
+  bio              : "Bioinformatician at NYU Langone Health"
   location         : "New York"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Ferrena+A&sort=date"
