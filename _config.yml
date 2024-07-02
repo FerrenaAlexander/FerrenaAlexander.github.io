@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Ferrena"
+title                    : "Alexander Ferrena, PhD"
 title_separator          : "-"
 name                     : &name "Alexander Ferrena"
-description              : &description "PhD Candidate at Albert Einstein College of Medicine"
+description              : &description "Bioinformatician, NYU Langone Health"
 url                      : https://FerrenaAlexander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FerrenaAlexander.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "alexander-ferrena"
-  orcid            : "http://orcid.org/0000-0002-9578-8683"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
