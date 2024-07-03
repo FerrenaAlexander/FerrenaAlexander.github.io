@@ -20,7 +20,7 @@ I received a PhD in cancer bioinformatics at Albert Einstein College of Medicine
 
 I am a computational biologist interested in the intersection of technology and science, especially with regard to health. I am highly proficient in R and transcriptomic data analysis. I am also interested and skilled in general data analysis and machine learning, especially in the realm of clinical data.
 
-I have long been interested in translational research, biotechnology, and pharmaceuticals. I received a competitve fellowship called the PhD in Clinical Investigation at Einstein which supports clinical and translational research, offers formal biostatistics training, and funded most of my PhD. I founded and led an omics-oriented educational and networking society, the Einstein Montefiore Omics Club. Additionally, I served as vice-president of the Einstein Biotech Club.
+I have long been interested in translational research, biotechnology, and pharmaceuticals. I received a highly competitive fellowship called the PhD in Clinical Investigation at Einstein which supports clinical and translational research, offers formal biostatistics training, and funded most of my PhD. I founded and led an omics-oriented educational and networking society, the Einstein Montefiore Omics Club. Additionally, I served as vice-president of the Einstein Biotech Club.
 
 I am a nature lover and an animal lover, and share my home with a little cat named Primrose and two aquariums.
 
