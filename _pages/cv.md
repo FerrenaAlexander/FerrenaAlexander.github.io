@@ -15,6 +15,6 @@ You can download my resume <u><a href="../FerrenaAlexanderResume.pdf">here</a></
 
 <br/>
 
-You can download my CV <u><a href="../AF_CV.pdf">here</a></u>
+You can download my CV <u><a href="../FerrenaAlexander_CV.pdf">here</a></u>
 
 <br/>
